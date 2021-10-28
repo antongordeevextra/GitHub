@@ -3,6 +3,7 @@ package com.example.applicationforgithub
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 //first commit new branch
+//firs commit newbranch2
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
