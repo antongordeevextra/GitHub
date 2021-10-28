@@ -2,7 +2,7 @@ package com.example.applicationforgithub
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-
+//first commit new branch
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
