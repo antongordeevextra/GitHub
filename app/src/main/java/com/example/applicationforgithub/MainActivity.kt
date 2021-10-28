@@ -16,3 +16,7 @@ class MainActivity : AppCompatActivity() {
     //forth commit
     //firth commit
 }
+
+private fun someFun() {
+
+}
